@@ -12,9 +12,9 @@ This Python repository contains two files:
 
 ## Usage:
 
-1. **Clone the Repository:**
+1. **Clone the Repository:** https://github.com/XenosWarlocks/Web-Scraper-Names-and-Emails.git
 
-2. **Navigate to the Directory:**
+2. **Navigate to the Directory:** Dev
 
 3. **Run the Script:**
 - Execute the main.py script by running:
